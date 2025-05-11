@@ -15,7 +15,6 @@ Le jeu gère les collisions, la gravité, et une vue centrée dynamiquement sur 
 
 * Affichage de plateformes fixes et mobiles
 * Personnage pouvant se déplacer et sauter
-* Saut uniquement si le personnage est sur une plateforme
 * Gravitation permanente
 * Texte dynamique affichant le score
 * Affichage d'un message de victoire ou de défaite
