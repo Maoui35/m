@@ -46,8 +46,7 @@ Une solution d'amélioration serait de recentrer directement la vue sur le perso
 
 ## Auteur
 
-Projet développé à titre d'apprentissage en C++/Qt.
+Manon Le Néchet CIR2
 
 ---
 
-**Note** : Le code utilise des chemins relatifs pour les images (ex : `../spidermandevant.jpg`). Assurez-vous que les ressources soient bien présentes dans les bons dossiers.
