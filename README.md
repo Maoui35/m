@@ -35,9 +35,8 @@ Une solution d'amélioration serait de recentrer directement la vue sur le perso
 
 ## Lancement du jeu
 
-1. Compiler le projet avec Qt Creator ou `qmake` + `make`
-2. Lancer l'exécutable
-3. Utiliser les touches suivantes :
+1. Lancer le projet
+2. Utiliser les touches suivantes :
 
    * Flèche droite : avancer
    * Flèche gauche : reculer
